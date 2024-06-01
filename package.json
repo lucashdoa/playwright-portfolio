@@ -1,7 +1,7 @@
 {
-  "name": "playwright-portfolio",
+  "name": "qaplayground-playwright-tests",
   "version": "1.0.0",
-  "description": "📌 A project to show off UI test automation skills with Playwright",
+  "description": "📌 A project with UI tests for QA Playground using Playwright.",
   "main": "index.js",
   "scripts": {},
   "keywords": [],
